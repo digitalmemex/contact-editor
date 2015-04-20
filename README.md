@@ -1,4 +1,4 @@
-# Digital MemeX Contact Editor Frontend
+# DIGITALMEMEX Contact Editor Frontend
 
 Currently, this frontend only lists people and institutions.
 
